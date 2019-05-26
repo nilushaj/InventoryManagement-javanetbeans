@@ -1,0 +1,12 @@
+					SAMPATH STORES - HORANA
+						Tel-0114595062
+			Issued By :sv0				Pay term :Cash
+			Date/Time :2017-01-20 22:33:46		Bill ID :7
+			Itemcd 	Item_Name	qnt	net price	discount	value
+			4	Milk		2.0	270.0	0.5	537.3
+			Total:   537.30
+			Pay :    550
+			Balance :    12.70
+						THANK YOU!!!
+						Come Again!!!
+			(Project of NIBM 13.1 pt batch)

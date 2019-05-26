@@ -1,0 +1,12 @@
+					SAMPATH STORES - HORANA
+						Tel-0114595062
+			Issued By :sv0
+					Monthly Report
+					Report For :2017-1-21
+
+				Invdate 		Itemcd		Item_Name	Item_Qnt		Net_price		Discount	  value
+
+			2017-01-21 09:47:06	2		Lux		3.0		40.0		0.0	120.0
+			2017-01-21 09:47:06	1		Sugar		2.0		100.0		2.0	196.0
+
+														   Total:   316.0

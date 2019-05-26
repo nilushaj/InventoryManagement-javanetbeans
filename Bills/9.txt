@@ -1,0 +1,13 @@
+					SAMPATH STORES - HORANA
+						Tel-0114595062
+			Issued By :sv0				Pay term :Cash
+			Date/Time :2017-02-15 21:10:54		Bill ID :9
+			Itemcd 	Item_Name	qnt	net price	discount	value
+			1	Sugar		3.0	100.0	2.0	294.0
+			2	Lux		3.0	40.0	0.0	120.0
+			Total:   414.00
+			Pay :    500
+			Balance :    86.00
+						THANK YOU!!!
+						Come Again!!!
+			(Project of NIBM 13.1 pt batch)

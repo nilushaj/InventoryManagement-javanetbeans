@@ -1,0 +1,13 @@
+					SAMPATH STORES - HORANA
+						Tel-0114595062
+			Issued By :sv0				Pay term :Credit Card
+			Date/Time :2017-01-20 21:58:43
+			Itemcd 	Item_Name	qnt	net price	discount	value
+			2	Lux		3.0	40.0	0.0	120.0
+			3	Rice		4.0	80.0	1.0	316.8
+			Total:   436.80
+			Pay :    436.80
+			Balance :    0
+						THANK YOU!!!
+						Come Again!!!
+			(Project of NIBM 13.1 pt batch)
